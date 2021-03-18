@@ -24,7 +24,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h2 align="left">Technologies & Tools</h2>
-> Tools, languages, and other things that I like to work with.
+
 ### Frontend
 <code>![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)</code> &nbsp;&nbsp;
 <code>![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)</code> &nbsp;&nbsp;
