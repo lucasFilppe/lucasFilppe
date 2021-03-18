@@ -2,10 +2,10 @@
 <h2 align="center"> I love to code </h2>
 <h4 align="left"> “Sometimes, life will hit you in the head with a brick. Do not lose faith. I am convinced that the only thing that kept me going was that I loved what I did. ” </h4>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🦅 &nbsp; Intern<a href="https://www.nextime.com.br/">NeXTIME</a> <a href="https://www.instagram.com/nextimetec/">@nextimetec</a><br>
+- 🦅 &nbsp; Intern <a href="https://www.nextime.com.br/">NeXTIME</a> <a href="https://www.instagram.com/nextimetec/">@nextimetec</a><br>
 - 🎓 &nbsp; Graduating in Computer Science at Ouro Preto University.<br>
 - 💼 &nbsp; Improving my skills every day.<br>
--- 🌱 & nbsp;Learning more about Front End Web Development.<br>
+-- 🌱&nbsp;Learning more about Front End Web Development.<br>
 - 📸 &nbsp; Instagram <a href="https://www.instagram.com/lucasfiliperamos/">@lucasfiliperamos</a><br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
