@@ -1,4 +1,4 @@
-@@ -1,48 +1,49 @@
+
 <h2 align="center"> I love to code </h2>
 <h4 align="left"> “Sometimes, life will hit you in the head with a brick. Do not lose faith. I am convinced that the only thing that kept me going was that I loved what I did. ” </h4>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -25,8 +25,8 @@
 
 <h2 align="left">Technologies & Tools</h2>
 > Tools, languages, and other things that I like to work with.
-### Languages
-<code>![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow)</code> &nbsp;&nbsp;
+### Frontend
+<code>![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)</code> &nbsp;&nbsp;
 <code>![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)</code> &nbsp;&nbsp;
 <code>![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)</code> &nbsp;&nbsp;
 
