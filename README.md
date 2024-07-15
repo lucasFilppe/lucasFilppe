@@ -1,8 +1,7 @@
 
 <h2 align="center"> I love to code </h2>
-<h4 align="left"> “Sometimes, life will hit you in the head with a brick. Do not lose faith. I am convinced that the only thing that keeps me going is the fact that I love what I dod. ” </h4>
+<h4 align="left"> “Sometimes, life will hit you in the head with a brick. Do not lose faith. I am convinced that the only thing that keeps me going is the fact that I love what I dod.” </h4>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
-- 🦅 &nbsp; Intern <a href="https://www.nextime.com.br/">NeXTIME</a> <a href="https://www.instagram.com/nextimetec/">@nextimetec</a><br>
 - 🎓 &nbsp; Graduating in Computer Science at Ouro Preto University.<br>
 - 💼 &nbsp; Improving my skills every day.<br>
 -- 🌱&nbsp;Learning more about Front End Web Development.<br>
@@ -16,7 +15,7 @@
     <img align = "left" alt = "lucasfilppe" width = "22px" src = "https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style = "max-width : 100%; ">
   </a>
   <a href="https://www.linkedin.com/in/lucas-ramos-1b61b81bb/">
-    <Img align = "left" alt = "lucas linkedin" width = "22px" src = "https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" style = "max-width: 100%;">
+    <Img align = "left" alt = "lucas linkedin" width = "22px" src = "https://camo.githubusercontent.com/d659d2bac00c01b42bffbae84bdc121e828b8fecd5b4949ffa2575f5d9e4a371/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667", tyle = "max-width : 100%; ">
   </a>
 </p>
 <br>
