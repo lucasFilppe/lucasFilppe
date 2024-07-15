@@ -1,6 +1,5 @@
 
 <h2 align="center"> I love to code </h2>
-<h4 align="left"> “Sometimes, life will hit you in the head with a brick. Do not lose faith. I am convinced that the only thing that keeps me going is the fact that I love what I dod.” </h4>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 - 🎓 &nbsp; Graduating in Computer Science at Ouro Preto University.<br>
 - 💼 &nbsp; Improving my skills every day.<br>
