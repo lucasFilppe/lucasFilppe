@@ -15,8 +15,8 @@
 - 🌍 Open to **remote opportunities** and **freelance work**
 
 📸 Instagram: <a href="https://www.instagram.com/lucasfiliperamos/">@lucasfiliperamos</a>  
-🌐 Portfolio: https://seu-portfolio.vercel.app  
-💼 LinkedIn: https://linkedin.com/in/seu-link  
+🌐 Portfolio:   https://portifolio-lucas-ramos.vercel.app/
+💼 LinkedIn: https://www.linkedin.com/in/lucas-filipe-ramos-1b61b81bb/  
 
 ---
 
@@ -50,9 +50,8 @@
   https://carnacosa.vercel.app
 
 - 💼 **Personal Portfolio** — React / Next.js  
-  https://seu-portfolio.vercel.app
+  https://portifolio-lucas-ramos.vercel.app/
 
-- 💰 **Personal Finances App** — React + TypeScript  
 
 👉 Check pinned repositories for more projects.
 
@@ -60,21 +59,11 @@
 
 ## 📫 Contact
 
-📧 Email: seuemail@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/seu-link  
+📧 Email: lucasfiliperamos99@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/lucas-filipe-ramos-1b61b81bb/
 📸 Instagram: @lucasfiliperamos  
 
 💡 **Available for freelance work and junior front-end positions.**
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasFilppe&layout=compact&langs_count=8&theme=vision-friendly-dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasFilppe&show_icons=true&count_private=true&theme=vision-friendly-dark" />
-</p>
 
